@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mask {
+  mask-image: radial-gradient(32rem 32rem at center,white,transparent);
+}
