@@ -1,4 +1,4 @@
-# sponsorpage
+# Common spaces
 
 This template should help get you started developing with TailwindCSS.
 
